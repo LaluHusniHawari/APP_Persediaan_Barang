@@ -1,0 +1,85 @@
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Lalu Husni Hawari_1901010194_UAS.exe.config
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Lalu Husni Hawari_1901010194_UAS.exe
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Lalu Husni Hawari_1901010194_UAS.pdb
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Lalu Husni Hawari_1901010194_UAS.xml
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.Resources.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.vbproj.GenerateResource.cache
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.vbproj.CoreCompileInputs.cache
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.exe
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.xml
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.pdb
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.databarang.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.Barangmasuk.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.Login.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.Menu_Utama.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x64\msvcr100.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x64\SqlServerSpatial110.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x86\msvcr100.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\packages\Microsoft.SqlServer.Types.11.0.2\nativeBinaries\x86\SqlServerSpatial110.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.vbproj.CopyComplete
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu Husni Hawari_1901010194_UAS.vbprojAssemblyReference.cache
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\EnvDTE.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\stdole.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\Microsoft.MSXML.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.Barangkeluar.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\bin\Debug\persedianbarang.accdb
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.LaporanTransaksiBarangMasuk.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\RdlCompile.cache
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\RdlCompile.compiled
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.LaporanDataBarang.resources
+C:\VBNET\Lalu Husni Hawari_1901010194_UAS\obj\Debug\Lalu_Husni_Hawari_1901010194_UAS.LaporanTransaksiBarangKeluar.resources
